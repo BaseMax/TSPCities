@@ -2,9 +2,11 @@
 
 I love TSP problem, I usually use this in other topics but here need to design TSP problem to find minimum cost for moving between cities. This algorithm is not made by me, As you know I searched and use avaiable sources on the internet, really the internet is helpful.
 
-<center>
-  <img src="logo.png" width="50%" alt="TSP Cities">
-</center>
+<p>
+  <div align="center">
+    <img src="logo.png" width="37%" alt="TSP Cities">
+  </div>
+</p>
 
 ## What is Travelling Salesman Problem (TSP)
 
