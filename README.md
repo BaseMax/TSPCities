@@ -1,6 +1,6 @@
 # TSP Cities
 
-I love TSP problem, I usually use this in other topics but here need to design TSP problem to find minimum cost for moving between cities. This algorithm is not made by me, As you know I searched and use avaiable sources on the internet, really the internet is helpful.
+I love TSP problem, I usually use this in other topics but here need to design TSP problem to find minimum cost for moving between cities. This algorithm is not made by me, As you know I searched and use available sources on the internet, really the internet is helpful.
 
 ## What is Travelling Salesman Problem (TSP)
 
