@@ -44,7 +44,7 @@ int main()
     if(cost == INT_MAX)
         std::cout << "Unable to calculate the cost!" << std::endl;
     else
-        std::cout << "Cost: " << cost << " Toman" << std::endl;
+        std::cout << "Cost: " << cost << " Toman" << std::endl; // Toman is an iranian currency
 
     return 0;
 }
